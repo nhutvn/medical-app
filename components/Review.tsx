@@ -13,37 +13,37 @@ const reviewData = [
 		avatar: '/reviews/avatar-1.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam!',
 	},
 	{
 		avatar: '/reviews/avatar-2.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! ',
 	},
 	{
 		avatar: '/reviews/avatar-3.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam!',
 	},
 	{
 		avatar: '/reviews/avatar-4.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam!',
 	},
 	{
 		avatar: '/reviews/avatar-5.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam!',
 	},
 	{
 		avatar: '/reviews/avatar-6.png',
 		name: 'Thomson',
 		job: 'Chef',
-		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam! Eaque hic necessitatibus itaque maxime velit praesentium quo perferendis vitae magnam, facilis animi dolorum?',
+		review: 'Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente ducimus sequi dolorem omnis architecto magnam quibusdam!',
 	},
 ];
 
